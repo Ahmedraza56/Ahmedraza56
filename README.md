@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
+<h1 align="center">Hi, I'm Ahmed Raza</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [DIDx.net](https://didx.net/)
+-  I’m currently working on [DIDx.net](https://didx.net/)
 
-- 🌱 I’m currently learning **Software Engineering**
+- I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **ahmedrazy830@gmail.com**
+- How to reach me **ahmedrazy830@gmail.com**
 
 <p align="left">
 </p>
