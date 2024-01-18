@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DIDx.net](https://didx.net/)
 
-- 🌱 I’m currently learning **ACCP Prime 2.0**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **ahmedrazy830@gmail.com**
 
